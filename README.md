@@ -1,6 +1,6 @@
 # My-Website
 
-https://abhinavsagar.github.io/My-Website/
+https://abhinavsagar.github.io
 
 ## Environments and Tools
 

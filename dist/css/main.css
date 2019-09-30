@@ -115,6 +115,21 @@ body#bg-img {
   background-attachment: fixed;
   background-size: cover;
 }
+body#bg-img1 {
+  background: url(../img/back1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+body#bg-img2 {
+  background: url(../img/back1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+body#bg-img3 {
+  background: url(../img/back1.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
 body#bg-img:after {
   content: "";
   position: absolute;

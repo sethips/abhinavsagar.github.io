@@ -4,9 +4,8 @@ https://abhinavsagar.github.io
 
 ## Environments and Tools
 
-1. HTML5
-2. CSS3
+1. HTML
+2. CSS
 3. Sass
-4. NPM Package Manager
+4. NPM
 5. JavaScript
-6. Git
